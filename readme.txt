@@ -1,2 +1,2 @@
-git is a platform to share our code.
-it,s my first time use it.
+Git is a distributed version control system.
+Git is free software.
